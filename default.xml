@@ -7,6 +7,6 @@
 	<remote name="github" fetch="https://github.com/" />
 
 	<project path="platform" name="meta-raspberrypi.git" remote="yocto" />
-
+	<project path="services" name="nakarthikeya/rpi4-services.git" remote="github" />
 
 </manifest>
