@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<default revision="refs/heads/master" sync-j="4" />
+
+	<remote name="yocto" fetch="https://git.yoctoproject.org/git/" />
+	<remote name="github" fetch="https://github.com/" />
+
+	<project path="platform" name="meta-raspberrypi.git" remote="yocto" />
+
+
+</manifest>
